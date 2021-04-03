@@ -32,16 +32,19 @@ https://github.com/austin020269/School_District_Analysis/blob/main/PyCitySchools
 https://github.com/austin020269/School_District_Analysis/blob/main/PyCitySchools_Challenge_testing.ipynb
 
 ## Summary
-✓ How is the district summary affected?
+
+Specifically, mwe wanted to answer the following questions for the school district to summarize our study.
+
+1. How is the district summary affected?
 The average math score decreased by 0.1 points while the average reading score stayed the same. The percentage of students passing math decreased by 1% as did the percentage of students passing reading. The overall passing percentage also decreased by 1%.
 
-✓ How is the school summary affected?
+2. How is the school summary affected?
 The only change in data is with Thomas High School. The overall math and reading passing numbers decreased.
 
-✓ How does removing the ninth graders’ math and reading scores affect Thomas High School’s performance, relative to the other schools?
+3. How does removing the ninth graders’ math and reading scores affect Thomas High School’s performance, relative to the other schools?
 Thomas High School moved from 2nd place overall with a passing % of ~92% down to last place with a passing % of ~68%.
 
-✓ How does removing the ninth grade scores affect the following?
+4. How does removing the ninth grade scores affect the following?
 
 Math and Reading Scores by Grade
 Thomas High School's 9th grade class has no math or reading score data to count. Everything else was unaffected.
