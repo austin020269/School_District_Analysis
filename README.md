@@ -16,9 +16,9 @@ Software utilized for this study included:
 - Jupyter Notebook 6.1.4
 
 ## Analysis and Workflow
-Some of the students were caught with academic dishonesty from Thomas High School. The data for the math and reading scores must be removed and the following information should be recalculated.
+Data for the math and reading scores were removed then we did the following:
 
-Recreate the district and school summary DataFrames.
+Create the district and school summary DataFrames.
 Recalculate the top 5 and bottom 5 performing schools.
 Recalculate the average math score received by students in each grade level at each school.
 Recalculate the average reading score received by students in each grade level at each school.
@@ -26,7 +26,11 @@ Recalculate the school performance based on the spending per student.
 Recalculate the school performance based on the size of the school.
 Recalculate the school performance based on the type of school.
 
-## Analysis Summary
+The Jupyter notebooks (Python code) for the above analysis can be found here:
+https://github.com/austin020269/School_District_Analysis/blob/main/PyCitySchools.ipynb
+https://github.com/austin020269/School_District_Analysis/blob/main/PyCitySchools_Challenge_testing.ipynb
+
+## Summary
 ✓ How is the district summary affected?
 The average math score decreased by 0.1 points while the average reading score stayed the same. The percentage of students passing math decreased by 1% as did the percentage of students passing reading. The overall passing percentage also decreased by 1%.
 
