@@ -7,8 +7,13 @@ The school has requested an analysis of school spending and standardized test sc
 Data Sources provided to analyze and minipulate included:
 - schools_complete.csv
 - students_complete.csv
-- 
-Software: Python 3.6.9, Anaconda Navigator 1.9.7, Jupyter Notebook 6.0.1
+- clean_students_complete.csv
+- missing_grades.csv
+
+Software utilized for this study included: 
+- Python 3.7.6 
+- Conda 4.9.2 
+- Jupyter Notebook 6.1.4
 
 ## Analysis and Workflow
 Some of the students were caught with academic dishonesty from Thomas High School. The data for the math and reading scores must be removed and the following information should be recalculated.
