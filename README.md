@@ -1,10 +1,13 @@
 # School_District_Analysis
 
 ## Project Overview
-Maria is the chief data scientist for a city school district. She has requested an analysis of school spending and standardized test scores.
+The school has requested an analysis of school spending and standardized test scores.
 
 ## Resources
-Data Source: schools_complete.csv, students_complete.csv
+Data Sources provided to analyze and minipulate included:
+- schools_complete.csv
+- students_complete.csv
+- 
 Software: Python 3.6.9, Anaconda Navigator 1.9.7, Jupyter Notebook 6.0.1
 
 ## Analysis and Workflow
