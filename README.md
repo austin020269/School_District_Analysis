@@ -27,6 +27,7 @@ Recalculate the school performance based on the size of the school.
 Recalculate the school performance based on the type of school.
 
 The Jupyter notebooks (Python code) for the above analysis can be found here:
+
 https://github.com/austin020269/School_District_Analysis/blob/main/PyCitySchools.ipynb
 https://github.com/austin020269/School_District_Analysis/blob/main/PyCitySchools_Challenge_testing.ipynb
 
