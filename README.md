@@ -19,12 +19,12 @@ Software utilized for this study included:
 ## Analysis and Workflow
 Data for the math and reading scores were removed then we created a new dataframe consisting of the district and school summaries to manipulte the following:
 
-- Top 5 and bottom 5 performing schools.
-- Average math score received by students in each grade level at each school.
-- Average reading score received by students in each grade level at each school.
-- School performance based on the spending per student.
-- School performance based on the size of the school.
-- School performance based on the type of school.
+- Top 5 and bottom 5 performing schools
+- Average math score received by students in each grade level at each school
+- Average reading score received by students in each grade level at each school
+- School performance based on the spending per student
+- School performance based on the size of the school
+- School performance based on the type of school
 
 The Jupyter notebooks (Python code) for the above analysis can be found here:
 
