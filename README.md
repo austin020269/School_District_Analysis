@@ -16,7 +16,7 @@ Software utilized for this study included:
 - Jupyter Notebook 6.1.4
 
 ## Analysis and Workflow
-Data for the math and reading scores were removed then we created a new dataframe consisting of the district and school summaries to maipulte the following:
+Data for the math and reading scores were removed then we created a new dataframe consisting of the district and school summaries to manipulte the following:
 
 - Top 5 and bottom 5 performing schools.
 - Average math score received by students in each grade level at each school.
