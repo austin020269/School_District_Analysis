@@ -14,6 +14,7 @@ Software utilized for this study included:
 - Python 3.7.6 
 - Conda 4.9.2 
 - Jupyter Notebook 6.1.4
+- GitHub account
 
 ## Analysis and Workflow
 Data for the math and reading scores were removed then we created a new dataframe consisting of the district and school summaries to manipulte the following:
