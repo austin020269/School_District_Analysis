@@ -1,13 +1,13 @@
 # School_District_Analysis
 
-##Project Overview
+## Project Overview
 Maria is the chief data scientist for a city school district. She has requested an analysis of school spending and standardized test scores.
 
 ##Resources
 Data Source: schools_complete.csv, students_complete.csv
 Software: Python 3.6.9, Anaconda Navigator 1.9.7, Jupyter Notebook 6.0.1
 
-##Analysis and Workflow
+## Analysis and Workflow
 Some of the students were caught with academic dishonesty from Thomas High School. The data for the math and reading scores must be removed and the following information should be recalculated.
 
 Recreate the district and school summary DataFrames.
@@ -18,7 +18,7 @@ Recalculate the school performance based on the spending per student.
 Recalculate the school performance based on the size of the school.
 Recalculate the school performance based on the type of school.
 
-#Aanysis Summary
+## Analysis Summary
 ✓ How is the district summary affected?
 The average math score decreased by 0.1 points while the average reading score stayed the same. The percentage of students passing math decreased by 1% as did the percentage of students passing reading. The overall passing percentage also decreased by 1%.
 
