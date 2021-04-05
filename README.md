@@ -26,25 +26,30 @@ Data for the math and reading scores were removed then we created a new datafram
 - School performance based on the size of the school
 - School performance based on the type of school
 
-The Jupyter notebooks (Python code) for the above analysis can be found here:
+The Jupyter notebooks (Python code) for the above analysis was worked through in the following files.
 
 https://github.com/austin020269/School_District_Analysis/blob/main/PyCitySchools.ipynb
 https://github.com/austin020269/School_District_Analysis/blob/main/PyCitySchools_Challenge_testing.ipynb
 
+The Challenge at the end of the module which finakized results of the study is here:
+
+https://github.com/austin020269/School_District_Analysis/blob/main/PyCitySchools_Challenge_final.ipynb
+
+
 ## Summary
 
-Specifically, mwe wanted to answer the following questions for the school district to summarize our study.
+Specifically, me wanted to answer the following questions for the school district to summarize our study.
 
-1. How is the district summary affected?
-The average math score decreased by 0.1 points while the average reading score stayed the same. The percentage of students passing math decreased by 1% as did the percentage of students passing reading. The overall passing percentage also decreased by 1%.
+1. How is the district summary affected when reading and math scores are dropped fpr 9th graders at Thomas High School?
+The % Passing of both math and reading dropped with the average math score decreased by 0.1 points.
 
 2. How is the school summary affected?
-The only change in data is with Thomas High School. The overall math and reading passing numbers decreased.
+The overall math and reading scores decreased for Thomas High School.
 
 3. How does removing the ninth graders’ math and reading scores affect Thomas High School’s performance, relative to the other schools?
 Thomas High School moved from 2nd place overall with a passing % of ~92% down to last place with a passing % of ~68%.
 
-4. How does removing the ninth grade scores affect the following?
+4. By removing 9th grade scores the following are effected:
 
 Math and Reading Scores by Grade
 Thomas High School's 9th grade class has no math or reading score data to count. Everything else was unaffected.
