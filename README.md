@@ -1,7 +1,7 @@
 # School_District_Analysis
 
 ## Project Overview
-The school has provided data to analyze school spending and standardized test scores.
+The school has provided data to analyze school spending, standardized test scores and student grades.
 
 ## Resources
 Data Sources provided to analyze and minipulate included:
